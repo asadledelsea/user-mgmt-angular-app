@@ -1,3 +1,11 @@
+
+# How to run it locally
+Download or clone the repository to your local machine:
+git clone https://github.com/asadledelsea/user-mgmt-angular-app.git
+
+# Run npm install inside the downloaded/cloned folder:
+npm install
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
